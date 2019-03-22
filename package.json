@@ -1,6 +1,6 @@
 {
   "name": "usereducers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Hook to combine multiple reducers (similar to Redux's combineReducers)",
   "main": "index.js",
   "repository": "https://github.com/strobelo/useReducers",
